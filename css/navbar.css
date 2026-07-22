@@ -1,0 +1,37 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 0px;
+    
+}
+.middle-part ul{
+    display: flex;
+   gap:30px;
+    
+}
+.middle-part ul li{
+     list-style: none;
+      
+}
+.list-item  a{
+    text-decoration: none;
+    font-family: Arimo;
+    color: #575757;
+    font-weight: 500;
+    font-size: 16px;
+   
+    
+}
+.navbar-btn{
+    background: #1D4ED8;
+    color: white;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+    padding: 10px 40px;
+    text-align: center;
+}
