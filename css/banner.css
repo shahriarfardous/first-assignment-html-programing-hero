@@ -35,7 +35,7 @@
     font-size: 20px;
     font-weight: bold;
     position: absolute;
-    bottom: 90px;
+    bottom: 60px;
     transform: translateX(-50%);
     cursor: pointer;
 }
