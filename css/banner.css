@@ -37,4 +37,5 @@
     position: absolute;
     bottom: 90px;
     transform: translateX(-50%);
+    cursor: pointer;
 }
