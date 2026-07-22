@@ -10,10 +10,17 @@
     display: flex;
     justify-content: space-between;
 }
+.middle-part ul{
+    display: flex;
+    
+}
 .middle-part ul li{
      list-style: none;
 }
 .list-item  a{
     text-decoration: none;
-    
+}
+.navbar-btn{
+    background: #1D4ED8;
+    color: white;
 }
