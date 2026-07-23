@@ -3,10 +3,41 @@
     font-family: Inter;
     font-size:50px;
     font-weight: bold;
-    padding-top: 45px;
+    padding-top: 20px;
     padding-bottom: 45px;
 }
 .speakers-man {
     display: grid;
 grid-template-columns: repeat(2,1fr);
+column-gap: 30px;
+
+}
+.speakers-man-item{
+    border: #E5E7EB 1px solid;
+    border-radius: 8px;
+}
+.speakers-man-img{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.speakers-man h6{
+    color: #2563EB;
+
+}
+.speakers-man h3{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: bold;
+    color: #0D1B2A;
+    padding: 8px 0px;
+
+}
+.speakers-man p{
+    font-family: Inter;
+    font-size: 13px;
+    color: #575757;
+    font-weight: 500;
+}
+.speakers-man-content {
+    padding: 15px 0 40px 20px;
 }
